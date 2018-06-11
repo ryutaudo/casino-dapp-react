@@ -1,0 +1,8 @@
+{
+  "name": "casino-dapp-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryutaudo/casino-dapp-react.git",
+  "author": "Ryuta Udo <ryutaudo@gmail.com>",
+  "license": "MIT"
+}
